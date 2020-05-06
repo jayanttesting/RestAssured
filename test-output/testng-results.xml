@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2688" started-at="2020-04-25T13:03:23Z" finished-at="2020-04-25T13:03:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2688" started-at="2020-04-25T13:03:23Z" finished-at="2020-04-25T13:03:25Z">
+      <class name="com.qa.test.PostApitest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.PostApitest@48eff760]" name="setup" is-config="true" duration-ms="7" started-at="2020-04-25T18:33:23Z" finished-at="2020-04-25T18:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="postapitest()[pri:0, instance:com.qa.test.PostApitest@48eff760]" name="postapitest" duration-ms="2667" started-at="2020-04-25T18:33:23Z" finished-at="2020-04-25T18:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postapitest -->
+      </class> <!-- com.qa.test.PostApitest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
